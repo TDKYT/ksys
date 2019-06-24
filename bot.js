@@ -35,7 +35,7 @@ var ti={}
 
 client.on('ready', function(){
     var ms = 60000 ;
-    var setGame = ['Killers Are Coming','Type ./help'];
+    var setGame = ['Killers Are Coming','Type .1help'];
     var i = -1;
     var j = 0;
     setInterval(function (){
